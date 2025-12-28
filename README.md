@@ -28,4 +28,4 @@ npm run build
 
 ## Documentation
 
-For more information about fhevmjs, you can [read the documentation](https://docs.zama.ai/fhevm).
+For more information about fhevmjs, you can [read the documentation](https://docs.luxfhe.ai/fhevm).
