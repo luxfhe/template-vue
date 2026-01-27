@@ -15,7 +15,7 @@ watchEffect(async () => {
   <h1>fhevmjs</h1>
   <div v-if="isInitialized"><Connect /></div>
   <p className="read-the-docs">
-    <a href="https://docs.zama.ai/fhevm">See the documentation for more information</a>
+    <a href="https://docs.lux.ai/fhevm">See the documentation for more information</a>
   </p>
 </template>
 
